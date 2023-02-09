@@ -1,0 +1,16 @@
+demo for pushing project in github using ubuntu
+
+
+
+version control system -git, cvs,mercurial, subversion,bazar->popular version control system
+
+GIT
+Git is a version control system.
+Git helps you keep track of code changes  IN THE SOURCE CODE.
+Git is used to collaborate on code.
+it donesn't store differences,it stores links to snapshot of changed files in case file wasn't changed
+if the fole not changed ,it stores just a link to the previous identical files that was already stored.so each time you can make changes,it takes a picture of what all files look like at the moment and stores a reference to that snapshot
+
+hello
+
+
