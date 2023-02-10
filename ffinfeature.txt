@@ -14,4 +14,4 @@ commit 3
 
 
 
-conflict-2 now lets see what happens
+conflict-2 now lets see what happen  conflict-1
